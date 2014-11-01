@@ -4,5 +4,9 @@
   "description": "Return the best-guess public IP of the local machine.",
   "main": "index.js",
   "author": "Toby Ho",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:airportyh/get-my-ip.git"
+  }
 }
