@@ -1,0 +1,8 @@
+{
+  "name": "get-my-ip",
+  "version": "0.0.1",
+  "description": "Return the best-guess public IP of the local machine.",
+  "main": "index.js",
+  "author": "Toby Ho",
+  "license": "MIT"
+}
